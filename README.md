@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & NLP**
 
-- 📝 I regularly write articles on [@ranjitghadge555](@ranjitghadge555)
+- 📝 I regularly write articles on [https://medium.com/@ranjitghadge555](https://medium.com/@ranjitghadge555)
 
 - 💬 Ask me about **Machine Learning,Data Analysis,SQL,Python**
 
