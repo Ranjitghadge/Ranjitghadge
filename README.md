@@ -1,52 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ranjit</h1>
-<h3 align="center">Experienced Data Analyst from India</h3>
+<h3 align="center"> Experienced Data Analyst from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranjitghadge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitghadge&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitghadge" /> </p>
 
-<p align="center">
-- 🌱 I’m currently learning **Deep Learning & NLP**<br>
-- 📝 I regularly write articles on [Medium](https://medium.com/@ranjitghadge555)<br>
-- 💬 Ask me about **Machine Learning, Data Analysis, SQL, Python**<br>
-- 📫 How to reach me: **[ranjitghadge555@gmail.com](mailto:ranjitghadge555@gmail.com)**<br>
-- 🌐 Check out my portfolio: [ranjitghadge.com](https://ranjitghadge.com)
-</p>
+- 🌱 I’m currently learning **Deep Learning & NLP**
 
-### 📫 Connect with me:
+- 📝 I regularly write articles on [https://medium.com/@ranjitghadge555](https://medium.com/@ranjitghadge555)
+
+- 💬 Ask me about **Machine Learning,Data Analysis,SQL,Python**
+
+- 📫 How to reach me **ranjitghadge555@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ranjit-ghadge/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/22145094/ranjit-ghadge" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://medium.com/@ranjitghadge555" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.hackerrank.com/ranjitghadge555" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ranjit-ghadge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranjit-ghadge/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22145094/ranjit-ghadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22145094/ranjit-ghadge" height="30" width="40" /></a>
+<a href="https://medium.com/@ranjitghadge555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitghadge555" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ranjitghadge555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ranjitghadge555?hr_r=1" height="30" width="40" /></a>
 </p>
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Seaborn-9A8B9D.svg?&style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>-- make my readme of github more attractive also add one extra link of my portfolio. also add medium blog
+ChatGPT said:
+ChatGPT
