@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  🌱 Currently learning **Deep Learning & NLP** <br>
-  📝 Explore my articles on <a href="https://medium.com/@ranjitghadge555" target="_blank">Medium</a> <br>
-  💬 Ask me about Machine Learning, Data Analysis, SQL, Python <br>
-  📫 Reach me at: <a href="mailto:ranjitghadge555@gmail.com">ranjitghadge555@gmail.com</a> <br>
-  🌐 Check out my portfolio: <a href="https://ranjitghadge.com" target="_blank">ranjitghadge.com</a>
+  🌱 I’m currently learning **Deep Learning & NLP** <br>
+  📝 I regularly write articles on [Medium](https://medium.com/@ranjitghadge555) <br>
+  💬 Ask me about **Machine Learning, Data Analysis, SQL, Python** <br>
+  📫 How to reach me: **[ranjitghadge555@gmail.com](mailto:ranjitghadge555@gmail.com)** <br>
+  🌐 Check out my portfolio: [ranjitghadge.com](https://ranjitghadge.com)
 </p>
 
 ### 📫 Connect with me:
