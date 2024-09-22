@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently learning Deep Learning & NLP <br>
+  🌱 Currently learning **Deep Learning & NLP** <br>
   📝 Explore my articles on <a href="https://medium.com/@ranjitghadge555" target="_blank">Medium</a> <br>
   💬 Ask me about Machine Learning, Data Analysis, SQL, Python <br>
   📫 Reach me at: <a href="mailto:ranjitghadge555@gmail.com">ranjitghadge555@gmail.com</a> <br>
