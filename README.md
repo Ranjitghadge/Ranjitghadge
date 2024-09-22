@@ -1,53 +1,52 @@
 <h1 align="center">Hi 👋, I'm Ranjit</h1>
 <h3 align="center">Experienced Data Analyst from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ranjitghadge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranjitghadge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
-  🌱 Currently diving into **Deep Learning & NLP** <br>
-  📝 I share insights on [Medium](https://medium.com/@ranjitghadge555) <br>
-  💬 Feel free to ask me about **Machine Learning, Data Analysis, SQL, Python** <br>
-  📫 Reach out: **[ranjitghadge555@gmail.com](mailto:ranjitghadge555@gmail.com)** <br>
-  🌐 Explore my portfolio: [ranjitghadge.com](https://ranjitghadge.com)
+  🌱 Currently learning **Deep Learning & NLP** <br>
+  📝 Explore my articles on [Medium](https://medium.com/@ranjitghadge555) <br>
+  💬 Ask me about **Machine Learning, Data Analysis, SQL, Python** <br>
+  📫 Reach me at: **[ranjitghadge555@gmail.com](mailto:ranjitghadge555@gmail.com)** <br>
+  🌐 Check out my portfolio: [ranjitghadge.com](https://ranjitghadge.com)
 </p>
 
-### 📚 Latest Blog Posts
-Explore my articles on [Medium](https://medium.com/@ranjitghadge555) for in-depth analysis and insights on data science and machine learning.
-
-<h3 align="left">Connect with me:</h3>
+### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/ranjit-ghadge/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/ranjit-ghadge/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/22145094/ranjit-ghadge" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30" />
+  <a href="https://stackoverflow.com/users/22145094/ranjit-ghadge" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://medium.com/@ranjitghadge555" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
+  <a href="https://medium.com/@ranjitghadge555" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.hackerrank.com/ranjitghadge555" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" />
+  <a href="https://www.hackerrank.com/ranjitghadge555" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Seaborn-9A8B9D.svg?&style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
   </a>
 </p>
